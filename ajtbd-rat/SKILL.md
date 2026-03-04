@@ -2,7 +2,7 @@
 name: ajtbd-rat
 description: Генерация Top-5 рискованных предположений (RAT — Risky Assumption Test) для продукта по методологии Advanced Jobs To Be Done. Используй когда пользователь хочет оценить риски продукта, провести RAT-анализ, выявить рискованные гипотезы или проверить жизнеспособность идеи.
 argument-hint: "[продукт, стадия, бизнес-модель или доп. контекст]"
-allowed-tools: Read, Write, Glob, Bash
+allowed-tools: Read, Write, Glob, Bash, WebSearch
 ---
 
 ## Системные инструкции: работа с артефактами AJTBD

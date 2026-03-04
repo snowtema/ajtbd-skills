@@ -2,7 +2,7 @@
 name: ajtbd-job-graph
 description: Генерация графа работ ниже уровнем к Core Job для конкретного сегмента по методологии Advanced Jobs To Be Done. Используй когда пользователь хочет детализировать работы сегмента, построить граф работ или разобрать Core Job на подработы.
 argument-hint: "[номер сегмента или описание Core Job]"
-allowed-tools: Read, Write, Glob, Bash
+allowed-tools: Read, Write, Glob, Bash, WebSearch
 ---
 
 ## Системные инструкции: работа с артефактами AJTBD

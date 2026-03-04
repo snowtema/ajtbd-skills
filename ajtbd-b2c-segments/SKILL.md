@@ -2,7 +2,7 @@
 name: ajtbd-b2c-segments
 description: Генерация 5 привлекательных B2C-сегментов по методологии Advanced Jobs To Be Done. Используй когда пользователь хочет найти сегменты для B2C-продукта, провести сегментацию потребительского рынка или выбрать целевой сегмент.
 argument-hint: "[описание продукта и ссылка на сайт]"
-allowed-tools: Read, Write, Glob, Bash
+allowed-tools: Read, Write, Glob, Bash, WebSearch
 ---
 
 ## Системные инструкции: работа с артефактами AJTBD

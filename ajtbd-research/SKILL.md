@@ -2,7 +2,7 @@
 name: ajtbd-research
 description: Полное AJTBD-исследование продукта — от сегментации до лендинга, RAT и рекрута. Запускает все AJTBD-скиллы последовательно в одной сессии. Используй когда пользователь хочет провести полное исследование продукта, запустить весь цикл AJTBD или сделать комплексный анализ идеи.
 argument-hint: "[B2B или B2C] описание продукта и ссылка на сайт"
-allowed-tools: Read, Write, Glob, Bash, AskUserQuestion
+allowed-tools: Read, Write, Glob, Bash, AskUserQuestion, WebSearch
 ---
 
 # Полное AJTBD-исследование

@@ -2,7 +2,7 @@
 name: ajtbd-landing
 description: Генерация текста лендинга для продукта на основе сегмента и его работ по методологии Advanced Jobs To Be Done. Используй когда пользователь хочет написать текст лендинга, посадочной страницы или landing page для сегмента.
 argument-hint: "[дополнительные указания]"
-allowed-tools: Read, Write, Glob, Bash
+allowed-tools: Read, Write, Glob, Bash, WebSearch
 ---
 
 ## Системные инструкции: работа с артефактами AJTBD
